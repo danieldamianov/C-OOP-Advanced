@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StructureTests", "StructureTests\StructureTests.csproj", "{431482DE-0A7C-4C65-A2D0-D6E8DB941FB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{431482DE-0A7C-4C65-A2D0-D6E8DB941FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{431482DE-0A7C-4C65-A2D0-D6E8DB941FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{431482DE-0A7C-4C65-A2D0-D6E8DB941FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{431482DE-0A7C-4C65-A2D0-D6E8DB941FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E88455A-00CC-4BFE-81D4-BDC01E3404A6}
+	EndGlobalSection
+EndGlobal
